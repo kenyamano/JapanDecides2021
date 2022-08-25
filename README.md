@@ -1,10 +1,8 @@
-# Support page for Economic Policy Trilemma
 
-Japan Decides 2021, Chapter 17
+## Support page for Chapter 17, Japan Decides 2021 (2022)
 
-Economic Policy Trilemma: Macroeconomic Politics in the 2021 Election
 
-Kenya Amano and Saori N.Katada
+Replication data and original data sources for Kenya Amano and Saori N.Katada (2022), *Economic Policy Trilemma: Macroeconomic Politics in the 2021 Election*. In Robert Pekkanen, Steven Reed, and Daniel Smith (eds.) *Japan Decides 2021: Japan's Coronavirus Election*. Palgrave macmillan.
 
 
 
