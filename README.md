@@ -9,7 +9,9 @@ Kenya Amano and Saori N.Katada
 
 
 ## Organization
-**Data** : .xlsx files for reproducing Table 17.1 and Fig 17.1
-**GovernmentBudgetPlan** : Original data sources for Table 17.1
-**Manifesto2021** : Original data sources for Fig 17.1
+**Data** : .xlsx files for reproducing Table 17.1 and Fig 17.1.
+
+**GovernmentBudgetPlan** : Original data sources for Table 17.1.
+
+**Manifesto2021** : Original data sources for Fig 17.1.
 
